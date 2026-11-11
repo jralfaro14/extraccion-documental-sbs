@@ -34,7 +34,7 @@ import urllib.request
 from pathlib import Path
 
 ES_WINDOWS = os.name == "nt"
-ULTIMA_SESION = 3          # última sesión publicada: se actualiza al publicar la siguiente
+ULTIMA_SESION = 4          # última sesión publicada: se actualiza al publicar la siguiente
 ARCHIVO_REQUIREMENTS = Path(__file__).resolve().with_name("02_requirements.txt")
 
 # Módulo que se importa cuando no coincide con el nombre del paquete

@@ -23,7 +23,7 @@
 param(
     [string]$Requirements = "",
     [string]$Curso = "C:\curso",
-    [string]$Rama = "sesion-03",
+    [string]$Rama = "sesion-04",
     [string]$Repositorio = "https://github.com/jonatanfigueroagil-creator/entorno-extraccion-documental",
     [string]$Zip = "",
     [string]$Modelo = "qwen3:4b-instruct-2507-q4_K_M",
@@ -35,7 +35,7 @@ param(
     [switch]$SinModelosHF,
     [string]$CacheHF = "",
     [string]$IndiceTorch = "",
-    [int]$Sesion = 3
+    [int]$Sesion = 4
 )
 $ErrorActionPreference = "Continue"
 $Raiz = if ($PSScriptRoot) { $PSScriptRoot } elseif ($MyInvocation.MyCommand.Path) { Split-Path -Parent $MyInvocation.MyCommand.Path } else { (Get-Location).Path }
