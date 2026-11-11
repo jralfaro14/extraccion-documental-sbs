@@ -1,0 +1,30 @@
+{
+ "id": "REC-0053",
+ "archivo": "REC-0053.eml",
+ "campos": {
+  "dni": "99492183",
+  "nombre": "Rosa Nunez Escobar",
+  "monto_reclamado": 1131.0,
+  "entidad": "Banco del Sur Austral DEMO S.A.",
+  "telefono": "999 000 024",
+  "correo": "rosa.nunez66@ejemplo.pe",
+  "producto": "cuenta de ahorros",
+  "fecha": "2026-02-03",
+  "motivo": "demora en entrega",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.5826,
+ "ocr": {
+  "score": 0.894,
+  "confianza": 0.7887,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.005
+}

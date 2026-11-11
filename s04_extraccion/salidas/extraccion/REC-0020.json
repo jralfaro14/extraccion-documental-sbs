@@ -1,0 +1,30 @@
+{
+ "id": "REC-0020",
+ "archivo": "REC-0020.eml",
+ "campos": {
+  "dni": "99366662",
+  "nombre": "Andres Palacios Lazo",
+  "monto_reclamado": 1027.0,
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "telefono": null,
+  "correo": "andres.palacios52@ejemplo.pe",
+  "producto": "tarjeta de debito",
+  "fecha": "2026-09-07",
+  "motivo": "cuenta cerrada",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.4905,
+ "ocr": {
+  "score": 0.978,
+  "confianza": 0.956,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.004
+}

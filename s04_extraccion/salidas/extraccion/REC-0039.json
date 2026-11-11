@@ -1,0 +1,30 @@
+{
+ "id": "REC-0039",
+ "archivo": "REC-0039.eml",
+ "campos": {
+  "dni": "99689662",
+  "nombre": "Elena Herrera Huaman",
+  "monto_reclamado": 1886.0,
+  "entidad": "Banco del Sur Austral DEMO S.A.",
+  "telefono": null,
+  "correo": "elena.herrera94@ejemplo.pe",
+  "producto": "prestamo personal",
+  "fecha": "2026-05-31",
+  "motivo": "cobro indebido",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.5219,
+ "ocr": {
+  "score": 0.977,
+  "confianza": 0.9548,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.004
+}

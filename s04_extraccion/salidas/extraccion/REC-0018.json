@@ -1,0 +1,32 @@
+{
+ "id": "REC-0018",
+ "archivo": "REC-0018.eml",
+ "campos": {
+  "dni": "99426295",
+  "nombre": "Carlos Olivera Huaman",
+  "monto_reclamado": 295.0,
+  "entidad": "Edpyme Sol Naciente DEMO S.A.",
+  "telefono": "999 000 673",
+  "correo": "carlos.olivera7@ejemplo.pe",
+  "producto": "prestamo personal",
+  "fecha": "2026-04-07",
+  "motivo": "cargo duplicado",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.5168,
+ "ocr": {
+  "score": 0.863,
+  "confianza": 0.8376,
+  "decision": "revisar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [
+  "ruta del OCR"
+ ],
+ "ruta": "revisar",
+ "segundos": 0.006
+}

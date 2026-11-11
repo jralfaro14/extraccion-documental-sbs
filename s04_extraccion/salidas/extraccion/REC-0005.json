@@ -1,0 +1,30 @@
+{
+ "id": "REC-0005",
+ "archivo": "REC-0005.eml",
+ "campos": {
+  "dni": "99510965",
+  "nombre": "Ricardo Montoya Condori",
+  "monto_reclamado": 221.0,
+  "entidad": "Financiera Pampa Azul DEMO S.A.",
+  "telefono": "999 000 066",
+  "correo": "ricardo.montoya23@ejemplo.pe",
+  "producto": "tarjeta de credito",
+  "fecha": "2026-07-12",
+  "motivo": "tasa distinta",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.3489,
+ "ocr": {
+  "score": 0.932,
+  "confianza": 0.8649,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.006
+}

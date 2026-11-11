@@ -1,0 +1,10 @@
+,reglas,spaCy,Transformers,TF-IDF,zero-shot,pipeline
+dni,1.0,,,,,1.0
+nombre,1.0,0.633,1.0,,,1.0
+monto_reclamado,1.0,,,,,1.0
+entidad,0.992,0.254,0.933,,,0.983
+telefono,0.8,,,,,0.8
+correo,1.0,,,,,1.0
+producto,1.0,,,,,1.0
+fecha,0.983,,,,,0.983
+motivo,0.966,,,0.917,0.583,0.917

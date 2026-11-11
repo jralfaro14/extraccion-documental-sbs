@@ -1,0 +1,30 @@
+{
+ "id": "REC-0035",
+ "archivo": "REC-0035.eml",
+ "campos": {
+  "dni": "99165630",
+  "nombre": "Alvaro Benavides Quispe",
+  "monto_reclamado": 585.0,
+  "entidad": "Financiera Pampa Azul DEMO S.A.",
+  "telefono": null,
+  "correo": "alvaro.benavides84@ejemplo.pe",
+  "producto": "prestamo personal",
+  "fecha": "2026-03-02",
+  "motivo": "cuenta cerrada",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.4837,
+ "ocr": {
+  "score": 0.949,
+  "confianza": 0.8977,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.005
+}

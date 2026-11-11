@@ -1,0 +1,32 @@
+{
+ "id": "REC-0003",
+ "archivo": "REC-0003.eml",
+ "campos": {
+  "dni": "99532701",
+  "nombre": "Gladys Delgado Chavez",
+  "monto_reclamado": 557.0,
+  "entidad": "Banco Cordillera DEMO S.A.",
+  "telefono": null,
+  "correo": "gladys.delgado78@ejemplo.pe",
+  "producto": "prestamo personal",
+  "fecha": "2026-02-27",
+  "motivo": "cobro indebido",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.5035,
+ "ocr": {
+  "score": 0.866,
+  "confianza": 0.8316,
+  "decision": "revisar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [
+  "ruta del OCR"
+ ],
+ "ruta": "revisar",
+ "segundos": 0.006
+}

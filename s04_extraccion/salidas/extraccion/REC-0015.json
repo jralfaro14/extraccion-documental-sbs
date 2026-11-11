@@ -1,0 +1,30 @@
+{
+ "id": "REC-0015",
+ "archivo": "REC-0015.eml",
+ "campos": {
+  "dni": "99538564",
+  "nombre": "Victor Caceres Mendoza",
+  "monto_reclamado": 655.0,
+  "entidad": "Financiera Altiplano DEMO S.A.",
+  "telefono": "999 000 528",
+  "correo": "victor.caceres66@ejemplo.pe",
+  "producto": "prestamo personal",
+  "fecha": "2026-07-06",
+  "motivo": "cargo duplicado",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.5055,
+ "ocr": {
+  "score": 0.945,
+  "confianza": 0.8895,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.005
+}

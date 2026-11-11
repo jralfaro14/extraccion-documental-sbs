@@ -1,0 +1,30 @@
+{
+ "id": "REC-0051",
+ "archivo": "REC-0051.eml",
+ "campos": {
+  "dni": "99775306",
+  "nombre": "Diego Chavez Paredes",
+  "monto_reclamado": 2161.0,
+  "entidad": "Financiera Altiplano DEMO S.A.",
+  "telefono": "999 000 867",
+  "correo": "diego.chavez63@ejemplo.pe",
+  "producto": "cuenta de ahorros",
+  "fecha": "2026-03-18",
+  "motivo": "consumo no reconocido",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.3625,
+ "ocr": {
+  "score": 0.978,
+  "confianza": 0.9568,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.004
+}

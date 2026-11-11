@@ -1,0 +1,30 @@
+{
+ "id": "REC-0046",
+ "archivo": "REC-0046.eml",
+ "campos": {
+  "dni": "99899119",
+  "nombre": "Pedro Escobar Mendoza",
+  "monto_reclamado": 56.0,
+  "entidad": "Banco Costa Norte DEMO S.A.",
+  "telefono": "999 000 549",
+  "correo": "pedro.escobar65@ejemplo.pe",
+  "producto": "tarjeta de credito",
+  "fecha": "2026-04-03",
+  "motivo": "consumo no reconocido",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.3273,
+ "ocr": {
+  "score": 0.976,
+  "confianza": 0.9516,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.004
+}

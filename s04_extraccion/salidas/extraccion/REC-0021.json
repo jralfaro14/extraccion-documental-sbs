@@ -1,0 +1,30 @@
+{
+ "id": "REC-0021",
+ "archivo": "REC-0021.eml",
+ "campos": {
+  "dni": "99663754",
+  "nombre": "Ricardo Ledesma Nunez",
+  "monto_reclamado": 2219.0,
+  "entidad": "Banco Andino DEMO S.A.",
+  "telefono": null,
+  "correo": "ricardo.ledesma2@ejemplo.pe",
+  "producto": "prestamo personal",
+  "fecha": "2026-05-03",
+  "motivo": "cargo duplicado",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.4897,
+ "ocr": {
+  "score": 0.977,
+  "confianza": 0.9545,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.004
+}

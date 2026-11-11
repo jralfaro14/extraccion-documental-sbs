@@ -1,0 +1,30 @@
+{
+ "id": "REC-0031",
+ "archivo": "REC-0031.eml",
+ "campos": {
+  "dni": "99329218",
+  "nombre": "Oscar Zevallos Mamani",
+  "monto_reclamado": 542.0,
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "telefono": "999 000 639",
+  "correo": "oscar.zevallos59@ejemplo.pe",
+  "producto": "tarjeta de debito",
+  "fecha": "2026-04-10",
+  "motivo": "demora en entrega",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.616,
+ "ocr": {
+  "score": 0.971,
+  "confianza": 0.9422,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.004
+}

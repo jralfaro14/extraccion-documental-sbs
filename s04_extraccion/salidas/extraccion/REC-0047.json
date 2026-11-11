@@ -1,0 +1,30 @@
+{
+ "id": "REC-0047",
+ "archivo": "REC-0047.eml",
+ "campos": {
+  "dni": "99379111",
+  "nombre": "Mario Mendoza Quispe",
+  "monto_reclamado": 801.0,
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "telefono": "999 000 477",
+  "correo": "mario.mendoza41@ejemplo.pe",
+  "producto": "cuenta sueldo",
+  "fecha": "2026-02-27",
+  "motivo": "demora en entrega",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.5677,
+ "ocr": {
+  "score": 0.935,
+  "confianza": 0.8692,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.005
+}

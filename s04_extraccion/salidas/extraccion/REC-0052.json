@@ -1,0 +1,30 @@
+{
+ "id": "REC-0052",
+ "archivo": "REC-0052.eml",
+ "campos": {
+  "dni": "99037122",
+  "nombre": "Jorge Castillo Vargas",
+  "monto_reclamado": 2338.0,
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "telefono": "999 000 791",
+  "correo": "jorge.castillo44@ejemplo.pe",
+  "producto": "cuenta de ahorros",
+  "fecha": "2026-07-18",
+  "motivo": "cuenta cerrada",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.4237,
+ "ocr": {
+  "score": 0.967,
+  "confianza": 0.9346,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.005
+}

@@ -1,0 +1,30 @@
+{
+ "id": "REC-0019",
+ "archivo": "REC-0019.eml",
+ "campos": {
+  "dni": "99466216",
+  "nombre": "Julia Salazar Soto",
+  "monto_reclamado": 503.0,
+  "entidad": "Banco del Sur Austral DEMO S.A.",
+  "telefono": null,
+  "correo": "julia.salazar74@ejemplo.pe",
+  "producto": "tarjeta de credito",
+  "fecha": "2026-04-19",
+  "motivo": "cargo duplicado",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.461,
+ "ocr": {
+  "score": 0.955,
+  "confianza": 0.9096,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.005
+}

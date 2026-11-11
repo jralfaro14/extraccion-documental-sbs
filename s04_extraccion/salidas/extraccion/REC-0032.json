@@ -1,0 +1,30 @@
+{
+ "id": "REC-0032",
+ "archivo": "REC-0032.eml",
+ "campos": {
+  "dni": "99289344",
+  "nombre": "Mario Herrera Ponce",
+  "monto_reclamado": 489.0,
+  "entidad": "Banco Andino DEMO S.A.",
+  "telefono": "999 000 655",
+  "correo": "mario.herrera92@ejemplo.pe",
+  "producto": "prestamo personal",
+  "fecha": "2026-08-31",
+  "motivo": "cargo duplicado",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.5102,
+ "ocr": {
+  "score": 0.966,
+  "confianza": 0.931,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.006
+}

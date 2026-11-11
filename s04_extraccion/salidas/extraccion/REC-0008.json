@@ -1,0 +1,30 @@
+{
+ "id": "REC-0008",
+ "archivo": "REC-0008.eml",
+ "campos": {
+  "dni": "99580882",
+  "nombre": "Sofia Huaman Ledesma",
+  "monto_reclamado": 2146.0,
+  "entidad": "Financiera Pampa Azul DEMO S.A.",
+  "telefono": "999 000 025",
+  "correo": "sofia.huaman51@ejemplo.pe",
+  "producto": "prestamo personal",
+  "fecha": "2026-04-26",
+  "motivo": "cuenta cerrada",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.4372,
+ "ocr": {
+  "score": 0.978,
+  "confianza": 0.9556,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.004
+}

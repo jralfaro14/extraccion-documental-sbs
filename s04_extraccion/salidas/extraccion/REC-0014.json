@@ -1,0 +1,32 @@
+{
+ "id": "REC-0014",
+ "archivo": "REC-0014.eml",
+ "campos": {
+  "dni": "99653721",
+  "nombre": "Silvia Montoya Benavides",
+  "monto_reclamado": 141.0,
+  "entidad": "Banco Andino DEMO S.A.",
+  "telefono": null,
+  "correo": "silvia.montoya59@ejemplo.pe",
+  "producto": "cuenta de ahorros",
+  "fecha": "2026-03-23",
+  "motivo": "tasa distinta",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.282,
+ "ocr": {
+  "score": 0.947,
+  "confianza": 0.8936,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [
+  "confianza del motivo"
+ ],
+ "ruta": "revisar",
+ "segundos": 0.005
+}

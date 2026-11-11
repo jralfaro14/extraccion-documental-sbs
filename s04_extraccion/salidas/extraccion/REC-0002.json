@@ -1,0 +1,30 @@
+{
+ "id": "REC-0002",
+ "archivo": "REC-0002.eml",
+ "campos": {
+  "dni": "99703460",
+  "nombre": "Pedro Salazar Montoya",
+  "monto_reclamado": 806.0,
+  "entidad": "Banco Cordillera DEMO S.A.",
+  "telefono": "999 000 342",
+  "correo": "pedro.salazar90@ejemplo.pe",
+  "producto": "cuenta de ahorros",
+  "fecha": "2026-07-16",
+  "motivo": "cobro indebido",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.4351,
+ "ocr": {
+  "score": 0.977,
+  "confianza": 0.9533,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.005
+}

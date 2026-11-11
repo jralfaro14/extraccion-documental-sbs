@@ -1,0 +1,30 @@
+{
+ "id": "REC-0041",
+ "archivo": "REC-0041.eml",
+ "campos": {
+  "dni": "99557244",
+  "nombre": "Silvia Torres Guerra",
+  "monto_reclamado": 1888.0,
+  "entidad": "Banco Costa Norte DEMO S.A.",
+  "telefono": null,
+  "correo": "silvia.torres92@ejemplo.pe",
+  "producto": "tarjeta de credito",
+  "fecha": "2026-03-07",
+  "motivo": "cobro indebido",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.5121,
+ "ocr": {
+  "score": 0.946,
+  "confianza": 0.8918,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.005
+}

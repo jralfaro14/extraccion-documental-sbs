@@ -1,0 +1,32 @@
+{
+ "id": "REC-0004",
+ "archivo": "REC-0004.eml",
+ "campos": {
+  "dni": "99596435",
+  "nombre": "Marta Chavez Paredes",
+  "monto_reclamado": 548.0,
+  "entidad": "Edpyme Sol Naciente DEMO S.A.",
+  "telefono": "999 000 991",
+  "correo": "marta.chavez63@ejemplo.pe",
+  "producto": "prestamo personal",
+  "fecha": "2028-05-28",
+  "motivo": "cargo duplicado",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.5123,
+ "ocr": {
+  "score": 0.839,
+  "confianza": 0.7777,
+  "decision": "revisar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [
+  "ruta del OCR"
+ ],
+ "ruta": "revisar",
+ "segundos": 0.007
+}

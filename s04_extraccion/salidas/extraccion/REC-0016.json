@@ -1,0 +1,30 @@
+{
+ "id": "REC-0016",
+ "archivo": "REC-0016.eml",
+ "campos": {
+  "dni": "99332260",
+  "nombre": "Carlos Ponce Paredes",
+  "monto_reclamado": 1215.0,
+  "entidad": "Banco del Sur Austral DEMO S.A.",
+  "telefono": "999 000 501",
+  "correo": "carlos.ponce22@ejemplo.pe",
+  "producto": "tarjeta de debito",
+  "fecha": "2026-07-06",
+  "motivo": "tasa distinta",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.3196,
+ "ocr": {
+  "score": 0.977,
+  "confianza": 0.954,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.004
+}

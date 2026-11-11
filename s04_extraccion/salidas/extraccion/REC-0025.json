@@ -1,0 +1,30 @@
+{
+ "id": "REC-0025",
+ "archivo": "REC-0025.eml",
+ "campos": {
+  "dni": "99086659",
+  "nombre": "Andres Torres Quispe",
+  "monto_reclamado": 748.0,
+  "entidad": "Banco Costa Norte DEMO S.A.",
+  "telefono": "999 000 516",
+  "correo": "andres.torres12@ejemplo.pe",
+  "producto": "cuenta sueldo",
+  "fecha": "2026-02-25",
+  "motivo": "cargo duplicado",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.4708,
+ "ocr": {
+  "score": 0.978,
+  "confianza": 0.9564,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.005
+}

@@ -1,0 +1,30 @@
+{
+ "id": "REC-0042",
+ "archivo": "REC-0042.eml",
+ "campos": {
+  "dni": "99369097",
+  "nombre": "Patricia Olivera Soto",
+  "monto_reclamado": 1136.0,
+  "entidad": "Edpyme Sol Naciente DEMO S.A.",
+  "telefono": "999 000 813",
+  "correo": "patricia.olivera78@ejemplo.pe",
+  "producto": "tarjeta de credito",
+  "fecha": "2026-06-03",
+  "motivo": "tasa distinta",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.3628,
+ "ocr": {
+  "score": 0.935,
+  "confianza": 0.8709,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.006
+}

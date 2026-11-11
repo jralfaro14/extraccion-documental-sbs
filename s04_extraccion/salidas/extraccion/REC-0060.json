@@ -1,0 +1,32 @@
+{
+ "id": "REC-0060",
+ "archivo": "REC-0060.eml",
+ "campos": {
+  "dni": "99328736",
+  "nombre": "Milagros Peralta Peralta",
+  "monto_reclamado": 1555.0,
+  "entidad": "Financiera Altiplano",
+  "telefono": null,
+  "correo": "milagros.peralta15@ejemplo.pe",
+  "producto": "cuenta sueldo",
+  "fecha": "2026-08-31",
+  "motivo": "demora en entrega",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.5146,
+ "ocr": {
+  "score": 0.851,
+  "confianza": 0.8019,
+  "decision": "revisar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [
+  "ruta del OCR"
+ ],
+ "ruta": "revisar",
+ "segundos": 0.022
+}

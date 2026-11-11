@@ -1,0 +1,30 @@
+{
+ "id": "REC-0027",
+ "archivo": "REC-0027.eml",
+ "campos": {
+  "dni": "99200228",
+  "nombre": "Andres Soto Herrera",
+  "monto_reclamado": 2099.0,
+  "entidad": "Banco Andino DEMO S.A.",
+  "telefono": null,
+  "correo": "andres.soto54@ejemplo.pe",
+  "producto": "prestamo personal",
+  "fecha": "2026-02-07",
+  "motivo": "cobro indebido",
+  "numero_reclamo": null
+ },
+ "confianza_motivo": 0.5147,
+ "ocr": {
+  "score": 0.953,
+  "confianza": 0.9067,
+  "decision": "aceptar",
+  "motor": "ocr_guardado"
+ },
+ "notas": {
+  "numero_reclamo": "no consta en el documento"
+ },
+ "faltantes": [],
+ "causas_revision": [],
+ "ruta": "aceptar",
+ "segundos": 0.006
+}
