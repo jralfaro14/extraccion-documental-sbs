@@ -1,0 +1,5 @@
+{"archivo": "LOT-0002.pdf", "motivo": "extension_falsa", "detalle": "la extensión '.pdf' no corresponde al contenido (png)", "fecha": "2026-11-18T11:02:11"}
+{"archivo": "LOT-0006.docx", "motivo": "docx_corrupto", "detalle": "el archivo no es un ZIP válido", "fecha": "2026-11-18T11:02:11"}
+{"archivo": "LOT-0007.pdf", "motivo": "pdf_cifrado", "detalle": "el PDF pide contraseña", "fecha": "2026-11-18T11:02:11"}
+{"archivo": "LOT-0014.pdf", "motivo": "pdf_danado", "detalle": "el PDF estaba dañado y solo se abrió tras una reparación automática", "fecha": "2026-11-18T11:02:11"}
+{"archivo": "LOT-0016.pdf", "motivo": "archivo_vacio", "detalle": "el archivo tiene 0 bytes", "fecha": "2026-11-18T11:02:11"}
